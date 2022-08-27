@@ -28,3 +28,20 @@ Progress in Artificial Intelligence
 + [Prolog]()
 + [Java](https://github.com/Aurametrix/Alg-J)   /[weka](https://en.wikipedia.org/wiki/Weka_(machine_learning))/
 + CUDA programming for GPUs
+
+
+# Hardware AI
+
+[sambanova](https://sambanova.ai/) - Enterprise AI and dataflow-as-a-service for established moodels
+
+[Cerebras](https://www.cerebras.net/) - AI accelerator trying to compete with NVidia
+
+[Furiosa](https://www.furiosa.ai/) - AI accelerator company which show good results in MLPerf benchmark
+
+[Graphcore](https://www.graphcore.ai/) - accelerating ML
+
+[Sparce NNs](https://femtosense.ai/) - on very low power chips
+
+[Sima](https://sima.ai/) - ML accelerators for embedded applications
+
+[Semiconductor startups](https://github.com/aolofsson/awesome-semiconductor-startups)
